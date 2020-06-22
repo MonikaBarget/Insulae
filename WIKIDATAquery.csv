@@ -1,4 +1,5 @@
 daily newspaper, Q110794
+WIKIDATA ENTITY, WIKIDATA ID
 inception, P571
 country, P17
 title, P1476
@@ -22,3 +23,10 @@ cartography, Q42515
 atlas, Q162827
 world map, Q653848
 map, Q61868351
+island ("sub-continental land that is surrounded by water"), Q23442
+coordinate location, P625
+easternmost point, P1334
+northernmost point, P1332
+southernmost point, P1333
+westernmost point, P1335
+GeoNamesID, P1566
