@@ -1,0 +1,15 @@
+SELECT ?item ?itemLabel ?country ?date ?location
+
+  WHERE {
+    # find civil disorder
+  ?item wdt:P31 wd:Q686984.
+    # find event data
+  ?item wdt:P585 ?date. 
+  FILTER((?date > "1500-01-01"^^xsd:dateTime) && (?date < "1800-01-01"^^xsd:dateTime))
+  
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+  
+  OPTIONAL {?item wdt:P17 ?country.}
+  OPTIONAL {?item wdt:P585 ?date.}
+  OPTIONAL {?item wdt:P276 ?location.}          
+}
