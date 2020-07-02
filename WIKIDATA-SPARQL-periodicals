@@ -1,14 +1,17 @@
 #earlymodernperiodicals
 
- # extract items with Q110794 = daily newspaper
+ # extract items with Q1110794 = daily newspaper
  # extract items with Q11032 = newspaper
+ # extract items with Q1002697 = periodicum
  # extract items with Q41298 = magazine (journal)
 
 SELECT ?item ?itemLabel 
 WHERE 
 {
-  # is instance of geographic map or it subclasses:
-  ?item wd:Q110794 wd:Q11032 wd:Q41298 
+  ?item wdt:P31 wd:Q1002697.
+  ?item wdt:P31 wd:Q11032.
+  ?item wdt:P31 wd:Q41298.
+  ?item wdt:P31 wd:Q1110794.
   
   # inception at variable date 
   ?item wdt:P571 ?date
