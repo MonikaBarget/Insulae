@@ -1,0 +1,12 @@
+#earlymodernMAPS
+SELECT ?item ?itemLabel 
+WHERE 
+{
+  # is instance of geographic map or it subclasses:
+  ?item wdt:P31/wdt:P279 wd:Q4006.
+  # inception at variable date 
+  ?item wdt:P571 ?date
+  # date is between 1400 and 1800
+  FILTER(?date > "1400-01-01"^^xsd:dateTime && ?date < "1800-01-01"^^xsd:dateTime)
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
