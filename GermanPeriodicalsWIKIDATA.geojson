@@ -1,0 +1,1220 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q51419171",
+    "LABEL":"Abhandlungen aus der Naturlehre, Haushaltungskunst und Mechanik",
+    "DATE FULL":"1740-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1740
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q51437113",
+    "LABEL":"Abhandlungen über verschiedene Gegenstände der Naturgeschichte",
+    "DATE FULL":"1776-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1776
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q2648880",
+    "LABEL":"Allgemeine deutsche Bibliothek",
+    "DATE FULL":"1765-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1765
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q463387",
+    "LABEL":"Allgemeine musikalische Zeitung",
+    "DATE FULL":"1798-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1798
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q1432339",
+    "LABEL":"Allgemeine Zeitung",
+    "DATE FULL":"1798-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1798
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q36502461",
+    "LABEL":"Allgemeiner Harz-Berg-Kalender",
+    "DATE FULL":"1697-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1697
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q2839086",
+    "LABEL":"Almanach des Muses",
+    "DATE FULL":"1765-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1765
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q56256924",
+    "LABEL":"Amaliens Erholungsstunden",
+    "DATE FULL":"1790-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1790
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q71489102",
+    "LABEL":"Archiv der reinen und angewandten Mathematik",
+    "DATE FULL":"1794-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1794
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.052771,51.4073375 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q697355",
+    "LABEL":"Arnsbergisches Intelligenzblatt",
+    "DATE FULL":"1766-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Arnsberg",
+    "DATE YEAR":1766
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2401648,44.9665149 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q71301842",
+    "LABEL":"Augsburger musikalischer Merkur",
+    "DATE FULL":"1795-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Augsburg",
+    "DATE YEAR":1795
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q322949",
+    "LABEL":"Aviso Relation oder Zeitung",
+    "DATE FULL":"1609-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1609
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q88967875",
+    "LABEL":"Bericht was sich zu anfang dieß itzt angehenden ... Jahres in Deutschlandt, Franckreich, Welschlandt, Böhmen, Ungern, Nederlandt und in andern örten hin unnd wieder zugetragen",
+    "DATE FULL":"1617-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1617
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.404954,52.5200066 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q821914",
+    "LABEL":"Berlinische Monatsschrift",
+    "DATE FULL":"1783-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Berlin",
+    "DATE YEAR":1783
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q51446705",
+    "LABEL":"Beschäftigungen der Berlinischen Gesellschaft Naturforschender Freunde.",
+    "DATE FULL":"1775-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1775
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q71621134",
+    "LABEL":"Beyträge zu den chemischen Annalen",
+    "DATE FULL":"1785-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1785
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q51449723",
+    "LABEL":"Botanisches Taschenbuch für die Anfänger dieser Wissenschaft und der Apothekerkunst.",
+    "DATE FULL":"1790-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1790
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.227512,46.818188 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q70766211",
+    "LABEL":"Der aufrichtige und wohlerfahrene Schweizer-Bote",
+    "DATE FULL":"1798-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Switzerland",
+    "DATE YEAR":1798
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q39781610",
+    "LABEL":"Der Lauscher",
+    "DATE FULL":"1786-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1786
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q1197395",
+    "LABEL":"Der Teutsche Merkur",
+    "DATE FULL":"1773-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1773
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.550072,47.516231 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q88564599",
+    "LABEL":"Die Einsidlerinn aus den Alpen",
+    "DATE FULL":"1793-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Austria?",
+    "DATE YEAR":1793
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q88564632",
+    "LABEL":"Die Frau Zuschauerinn",
+    "DATE FULL":"1785-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1785
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q277640",
+    "LABEL":"Die Horen",
+    "DATE FULL":"1795-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1795
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q1308132",
+    "LABEL":"Einkommende Zeitungen",
+    "DATE FULL":"1650-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1650
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q51469074",
+    "LABEL":"Entomologisches Taschenbuch für die Anfänger und Liebhaber dieser Wissenschaft",
+    "DATE FULL":"1796-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1796
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q88572296",
+    "LABEL":"Europäische Annalen",
+    "DATE FULL":"1795-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1795
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q88572312",
+    "LABEL":"Flora Teutschlands Töchtern geweiht von Freundinnen und Freunden des schönen Geschlechts",
+    "DATE FULL":"1793-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1793
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.8421043,47.9990077 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q1453894",
+    "LABEL":"Freiburger Zeitung",
+    "DATE FULL":"1784-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Freiburg",
+    "DATE YEAR":1784
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q88966963",
+    "LABEL":"Frischmann-Berichte 1617-1626",
+    "DATE FULL":"1617-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1617
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9936819,53.5510846 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q88564584",
+    "LABEL":"Für Hamburgs Tochter",
+    "DATE FULL":"1779-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Hamburg",
+    "DATE YEAR":1779
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6784031,50.5840512 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"G",
+    "LABEL":"Gießener Anzeiger",
+    "DATE FULL":"1750-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Gießen",
+    "DATE YEAR":1750
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.4289963,51.9059531 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q44376988",
+    "LABEL":"Goslarer Bergkalender",
+    "DATE FULL":"1619-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Goslar",
+    "DATE YEAR":1619
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9158035,51.5412804 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q909862",
+    "LABEL":"Göttinger Musenalmanach",
+    "DATE FULL":"1770-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Göttingen",
+    "DATE YEAR":1770
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9936819,53.5510846 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q822923",
+    "LABEL":"Hamburgischer Correspondent",
+    "DATE FULL":"1710-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Hamburg",
+    "DATE YEAR":1710
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9936819,53.5510846 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q51486125",
+    "LABEL":"Hamburgisches Magazin, oder, Gesammlete Schriften, aus der Naturforschung und den angenehmen Wissenschaften überhaupt.",
+    "DATE FULL":"1747-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Hamburg",
+    "DATE YEAR":1747
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9283105,50.1264123 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q1574231",
+    "LABEL":"Hanauer Anzeiger",
+    "DATE FULL":"1725-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Hanau",
+    "DATE YEAR":1725
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9579652,52.154778 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q1618445",
+    "LABEL":"Hildesheimer Allgemeine Zeitung",
+    "DATE FULL":"1705-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Hildesheim",
+    "DATE YEAR":1705
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q58990267",
+    "LABEL":"Journal der Pharmacie für Ärzte und Apotheker",
+    "DATE FULL":"1793-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1793
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q88573954",
+    "LABEL":"Journal von Tierfurt",
+    "DATE FULL":"1781-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1781
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9120439,50.3794495 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q1787160",
+    "LABEL":"Kreis-Anzeiger (Wetterau und Vogelsberg)",
+    "DATE FULL":"1792-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Wetterau",
+    "DATE YEAR":1792
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.5057515,46.0569465 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q6473731",
+    "LABEL":"Laibacher Zeitung",
+    "DATE FULL":"1778-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Laibach",
+    "DATE YEAR":1778
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.3730747,51.3396955 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q71185277",
+    "LABEL":"Leipziger Magazin für reine und angewandte Mathematik",
+    "DATE FULL":"1786-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Leipzig",
+    "DATE YEAR":1786
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9865279,51.9759031 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q1827524",
+    "LABEL":"Lippische Landes-Zeitung",
+    "DATE FULL":"1767-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Lippe",
+    "DATE YEAR":1767
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q51500593",
+    "LABEL":"Magazin des Thierreichs",
+    "DATE FULL":"1793-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1793
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q51500601",
+    "LABEL":"Magazin fur allgemeine Natur- und Thier-Geschichte",
+    "DATE FULL":"1788-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1788
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q51500602",
+    "LABEL":"Magazin für das Neueste aus der Physik und Naturgeschichte.",
+    "DATE FULL":"1781-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1781
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q51416437",
+    "LABEL":"Magazin für die Liebhaber der Entomologie.",
+    "DATE FULL":"1778-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1778
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q71298779",
+    "LABEL":"Musikalisches Wochenblatt",
+    "DATE FULL":"1791-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1791
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q23908670",
+    "LABEL":"National-Zeitung der Deutschen",
+    "DATE FULL":"1796-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1796
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.541694,47.3768866 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q658945",
+    "LABEL":"Neue Zürcher Zeitung",
+    "DATE FULL":"1780-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Zürich",
+    "DATE YEAR":1780
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q33590966",
+    "LABEL":"Nutzbringenden Vergnügungen",
+    "DATE FULL":"1760-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1760
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q88564601",
+    "LABEL":"Oekonomisches, moralisches und gemeinnütziges Journal für Frauenzimmer",
+    "DATE FULL":"1794-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1794
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q12371513",
+    "LABEL":"Ordinari Freytags Post-Zeitung",
+    "DATE FULL":"1675-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1675
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q88564614",
+    "LABEL":"Papiere einiger Freunde",
+    "DATE FULL":"1780-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1780
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.8609481,49.4822116 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q2084606",
+    "LABEL":"Pfälzischer Merkur",
+    "DATE FULL":"1713-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Pfalz",
+    "DATE YEAR":1713
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.404954,52.5200066 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q71494552",
+    "LABEL":"Physicalische und Medicinische Abhandlungen der Königlichen Academie der Wissenschaften zu Berlin",
+    "DATE FULL":"1781-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Berlin",
+    "DATE YEAR":1781
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q2101579",
+    "LABEL":"Politisches Journal",
+    "DATE FULL":"1781-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1781
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1665138,44.8662363 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q16913373",
+    "LABEL":"Pommersches Archiv der Wissenschaften und des Geschmaks",
+    "DATE FULL":"1783-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Pommern",
+    "DATE YEAR":1783
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.1077478,48.1485965 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q1240226",
+    "LABEL":"Preßburger Zeitung",
+    "DATE FULL":"1764-07-14T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Preßburg",
+    "DATE YEAR":1764
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q2113178",
+    "LABEL":"Propyläen (Zeitschrift)",
+    "DATE FULL":"1798-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1798
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9969327,49.2401572 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q1261982",
+    "LABEL":"Saarbrücker Zeitung",
+    "DATE FULL":"1761-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Saarbrücken",
+    "DATE YEAR":1761
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q71623328",
+    "LABEL":"Sammlung der besten Reisebeschreibungen",
+    "DATE FULL":"1784-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1784
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q71623957",
+    "LABEL":"Sammlung der merkwürdigsten Reisen in den Orient",
+    "DATE FULL":"1792-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1792
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.3219768,50.5716595 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q828098",
+    "LABEL":"Schlesische Zeitung",
+    "DATE FULL":"1742-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Schlesien",
+    "DATE YEAR":1742
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.6961167,54.2193672 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q2239283",
+    "LABEL":"Schleswig-Holsteinische Anzeigen",
+    "DATE FULL":"1750-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Schleswig-Holstein",
+    "DATE YEAR":1750
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.3767173,47.4244818 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q689052",
+    "LABEL":"St. Galler Tagblatt",
+    "DATE FULL":"1789-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"St. Gallen",
+    "DATE YEAR":1789
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6402915,27.7676008 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q1681700",
+    "LABEL":"St. Petersburgische Zeitung",
+    "DATE FULL":"1729-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"St. Petersburg",
+    "DATE YEAR":1729
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.4558926,51.8238111 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q1723382",
+    "LABEL":"Täglicher Anzeiger Holzminden",
+    "DATE FULL":"1777-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Holzminden",
+    "DATE YEAR":1777
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.6592956,49.6293817 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q2396559",
+    "LABEL":"Tauber-Zeitung",
+    "DATE FULL":"1791-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Tauberbischofsheim",
+    "DATE YEAR":1791
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.0557371,47.6037856 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q2430016",
+    "LABEL":"Thurgauer Zeitung",
+    "DATE FULL":"1798-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Thurgau",
+    "DATE YEAR":1798
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q72119829",
+    "LABEL":"Unterhaltungen",
+    "DATE FULL":"1766-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1766
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q88564628",
+    "LABEL":"Unterhaltungen in Abendstunden",
+    "DATE FULL":"1792-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1792
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q88564618",
+    "LABEL":"Vermischte Erzählungen und Einfälle zur allgemeinen Unterhaltung",
+    "DATE FULL":"1783-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1783
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q675003",
+    "LABEL":"Vossische Zeitung und Vorläufer",
+    "DATE FULL":"1721-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1721
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3738189,48.2081743 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q697173",
+    "LABEL":"Wiener Zeitung",
+    "DATE FULL":"1703-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Wien",
+    "DATE YEAR":1703
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q88564587",
+    "LABEL":"Wochenblatt für's Schöne Geschlecht",
+    "DATE FULL":"1779-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1779
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3738189,48.2081743 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q88564635",
+    "LABEL":"Wöchentliche Wahrheiten für und über die Herren in Wien",
+    "DATE FULL":"1783-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Wien",
+    "DATE YEAR":1783
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q88572326",
+    "LABEL":"Wöchentliche Zeitung auß mehrerley örther",
+    "DATE FULL":"1618-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1618
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.2689506,41.0972347 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q19433112",
+    "LABEL":"Wormser Zeitung",
+    "DATE FULL":"1776-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Worms",
+    "DATE YEAR":1776
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q89032402",
+    "LABEL":"Zeitung auß Deutschlandt, Welschlandt, Franckreich, Böhmen, Hungarn, Niederlandt und andern Orten",
+    "DATE FULL":"1619-01-01T00:00:00Z",
+    "LANGUAGE":"DE",
+    "PLACE":"Germany",
+    "DATE YEAR":1619
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "WIKIDATA ID":"http://www.wikidata.org/entity/Q1497912",
+    "LABEL":"Minerva",
+    "DATE FULL":"1792-01-01T00:00:00Z",
+    "LANGUAGE":"DE???",
+    "PLACE":"Germany",
+    "DATE YEAR":1792
+    }
+  }
+]
+}
