@@ -12,6 +12,7 @@ SELECT ?item ?itemLabel ?date
   WHERE {
   ?item wdt:P31 wd:Q11032.
 # ?item wdt:P17 wd:Q8680. # country # this information is often missing
+# ?item wdt:P159 ?location. # headquarter location # limits result list if not given
   ?item wdt:P571 ?date.
   FILTER((?date > "1500-01-01"^^xsd:dateTime) && (?date < "1800-01-01"^^xsd:dateTime))
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
