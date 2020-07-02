@@ -155,14 +155,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -93.2401648,44.9665149 ]
+       "coordinates":  [ 10.89779,48.3705449 ]
     },
     "properties": {
     "WIKIDATA ID":"http://www.wikidata.org/entity/Q71301842",
     "LABEL":"Augsburger musikalischer Merkur",
     "DATE FULL":"1795-01-01T00:00:00Z",
     "LANGUAGE":"DE",
-    "PLACE":"Augsburg",
+    "PLACE":"Augsburg, Germany",
     "DATE YEAR":1795
     }
   },
@@ -860,14 +860,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -93.1665138,44.8662363 ]
+       "coordinates":  [ 14.5528116,53.4285438 ]
     },
     "properties": {
     "WIKIDATA ID":"http://www.wikidata.org/entity/Q16913373",
     "LABEL":"Pommersches Archiv der Wissenschaften und des Geschmaks",
     "DATE FULL":"1783-01-01T00:00:00Z",
     "LANGUAGE":"DE",
-    "PLACE":"Pommern",
+    "PLACE":"Stettin, Poland",
     "DATE YEAR":1783
     }
   },
@@ -995,14 +995,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -82.6402915,27.7676008 ]
+       "coordinates":  [ 30.3609096,59.9310584 ]
     },
     "properties": {
     "WIKIDATA ID":"http://www.wikidata.org/entity/Q1681700",
     "LABEL":"St. Petersburgische Zeitung",
     "DATE FULL":"1729-01-01T00:00:00Z",
     "LANGUAGE":"DE",
-    "PLACE":"St. Petersburg",
+    "PLACE":"St. Petersburg, Russia",
     "DATE YEAR":1729
     }
   },
@@ -1175,14 +1175,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -98.2689506,41.0972347 ]
+       "coordinates":  [ 8.3507182,49.6341372 ]
     },
     "properties": {
     "WIKIDATA ID":"http://www.wikidata.org/entity/Q19433112",
     "LABEL":"Wormser Zeitung",
     "DATE FULL":"1776-01-01T00:00:00Z",
     "LANGUAGE":"DE",
-    "PLACE":"Worms",
+    "PLACE":"Worms, Germany",
     "DATE YEAR":1776
     }
   },
