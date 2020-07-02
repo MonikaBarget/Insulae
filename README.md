@@ -13,10 +13,15 @@ Topics covered will include:
 * Extracting information on relevant places, events and publications from Wikidata
 
 [SPARQL query events](https://github.com/MonikaBarget/Insulae/blob/master/WIKIDATA-SPARQL-events)
+
 [SPARQL query islands](https://github.com/MonikaBarget/Insulae/blob/master/WIKIDATA-SPARQL-islands)
+
 [SPARQL query maps](https://github.com/MonikaBarget/Insulae/blob/master/WIKIDATA-SPARQL-maps)
+
 [SPARQL query periodicals](https://github.com/MonikaBarget/Insulae/blob/master/WIKIDATA-SPARQL-periodicals)
+
 [WIKIDATA entities and properties](https://github.com/MonikaBarget/Insulae/blob/master/WIKIDATAquery.csv)
+
 [Python WIKIMAPPER](https://github.com/MonikaBarget/Insulae/blob/master/matchIDwithWIKIMAPPER.py)
 
 * Collection biographic information (e.g. relating to cartographers and printers) from Wikidata and the German National Library (DNB)
