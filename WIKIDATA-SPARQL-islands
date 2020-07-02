@@ -1,0 +1,20 @@
+#islands
+
+# archipelago (Q33837) 
+# Q110794 = geographical coordinates
+# longitude (Q36477) 
+# latitude (Q34027) 
+# island (Q23442)
+# country (P17) 
+# located on terrain feature (P706) 
+
+SELECT ?item ?itemLabel ?longitude ?latitude ?country ?terrain
+
+  WHERE {
+  ?item wdt:P31 wd:Q23442.
+  ?item wdt:P31 wd:Q36477 ?longitude.
+  ?item wdt:P31 wd:Q34027 ?latitude.
+  ?item wdt:P17 ?country.
+  ?item wdt:P706 ?terrain.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
