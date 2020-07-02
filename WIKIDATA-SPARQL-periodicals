@@ -1,0 +1,32 @@
+#earlymodernperiodicals
+
+ # extract items with Q110794 = daily newspaper
+ # extract items with Q11032 = newspaper
+ # extract items with Q41298 = magazine (journal)
+
+SELECT ?item ?itemLabel 
+WHERE 
+{
+  # is instance of geographic map or it subclasses:
+  ?item wd:Q110794 wd:Q11032 wd:Q41298 
+  
+  # inception at variable date 
+  ?item wdt:P571 ?date
+  # date is between 1500 and 1800
+  FILTER(?date > "1500-01-01"^^xsd:dateTime && ?date < "1800-01-01"^^xsd:dateTime)
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+
+
+# exclude values
+
+  VALUES ?minus {
+  wd:Q47092 # rape
+  wd:Q198   # war
+  wd:Q124490 # violence
+  wd:Q170382 # revolver
+  wd:Q1576   #cigar
+  #... add yours here
+
+  }.
+  MINUS {?sense wdt:P5137 ?minus.}.
