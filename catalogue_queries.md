@@ -8,9 +8,9 @@ https://catalog.hathitrust.org/Search/Home?type%5B%5D=all&lookfor%5B%5D=island&b
 
 **HTML strucutre of result page:**
 
- '<!-- results list -->
+ '<!-- results list -->'
                           
-<article class="record">
+'<article class="record">
   <div class="cover" data-hdl="chi.68094173">
         <img class="bookCover" aria-hidden="true" alt="" src="//babel.hathitrust.org/cgi/imgsrv/cover?id=chi.68094173" />
       </div>
