@@ -20,6 +20,13 @@ etc.
 
 https://www.worldcat.org/search?q=kw%3Ainsul+OR+insula+OR+isle+OR+insel+OR+island+OR+inseln+OR+insuln+OR+isola&fq=yr%3A1600..1800+%3E&dblist=638&start=231&qt=page_number_link
 
+etc.
+
+https://www.worldcat.org/search?q=kw%3Ainsul+OR+insula+OR+isle+OR+insel+OR+island+OR+inseln+OR+insuln+OR+isola&fq=yr%3A1600..1800+%3E&dblist=638&start=4991&qt=page_number_link
+
+etc.
+
+
 **HTML structure of WorldCat result page:**
 
 ```<tr  class="menuElem">
