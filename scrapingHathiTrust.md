@@ -8,7 +8,7 @@ https://catalog.hathitrust.org/Search/Home?type%5B%5D=all&lookfor%5B%5D=island&b
 
 **HTML strucutre of result page:**
 
- `<!-- results list -->
+```<!-- results list -->
                           
 <article class="record">
   <div class="cover" data-hdl="chi.68094173">
@@ -117,7 +117,7 @@ https://catalog.hathitrust.org/Search/Home?type%5B%5D=all&lookfor%5B%5D=island&b
               </ul>
     </div>
   </div>
-</article>`
+</article>```
 
 
 
