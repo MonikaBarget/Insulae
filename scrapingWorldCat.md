@@ -26,6 +26,7 @@ https://www.worldcat.org/search?q=kw%3Ainsul+OR+insula+OR+isle+OR+insel+OR+islan
 
 etc.
 
+**5000 results max.**
 
 **HTML structure of WorldCat result page:**
 
