@@ -18,14 +18,12 @@ Results 7561 to 7570: https://portal.dnb.de/opac.htm?method=showNextResultSite&c
 
 # Relevant tags in source code:
 
-´´´
-<td class="number">7564</td>
+´´´<td class="number">7564</td>
 <td>
 <a id="recordLink_7563" title="Details zu diesem Datensatz" href="/opac.htm?method=showFullRecord&amp;currentResultId=geograf+sortBy+tit%2Fsort.ascending%26any%26persons&amp;currentPosition=7563">Roberts, Neil<br/>1953- / Geograf</a></td>
 <td align="right" class="nowrap">						
 </td>
-</tr>
-´´´
+</tr>´´´
     
 # Link to individual result:
 
@@ -33,26 +31,18 @@ view-source:https://portal.dnb.de/opac.htm?method=showFullRecord&currentResultId
 
 # Full record HTML structure:
 
-´´´
-<tr>
+´´´<tr>
 <td width="25%" >
-<strong>Link zu diesem Datensatz</strong>
-</td>
-<td >
-<a href="http://d-nb.info/gnd/1047547155" title="http://d-nb.info/gnd/1047547155" onclick="window.open(this.href); return false;" onfocus="titleAnpassen(this);" onmouseover="titleAnpassen(this);">http://d-nb.info/gnd/1047547155</a>
-</td>
+<strong>Link zu diesem Datensatz</strong></td>
+<td ><a href="http://d-nb.info/gnd/1047547155" title="http://d-nb.info/gnd/1047547155" onclick="window.open(this.href); return false;" onfocus="titleAnpassen(this);" onmouseover="titleAnpassen(this);">http://d-nb.info/gnd/1047547155</a></td>
 </tr>
 <tr>
-<td width="25%" class='yellow'>
-<strong>Person</strong>
-</td>
-<td class='yellow'>Roberts, Neil</td>
+<td width="25%" class='yellow'><strong>Person</strong>
+</td><td class='yellow'>Roberts, Neil</td>
 </tr>
 <tr>
-<td width="25%" >
-<strong>Geschlecht</strong>
-</td>
-<td >männlich</td>
+<td width="25%" ><strong>Geschlecht</strong>
+</td><td >männlich</td>
 </tr>
 <tr><td width="25%" class='yellow'><strong>Zeit</strong></td>
 <td class='yellow'>Lebensdaten: 1953-</td>
