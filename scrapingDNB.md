@@ -1,4 +1,6 @@
-# Finding biographical information: query URLs
+# Data structure of DNB catalogue and downloadable files ("Normdaten")
+
+*Finding biographical information: query URLs*
 
 Results 11 to 20: https://portal.dnb.de/opac.htm?method=showNextResultSite&currentResultId=geograf+sortBy+tit%2Fsort.ascending%26any%26persons&currentPosition=0
 
@@ -12,26 +14,26 @@ Results 7551 to 7560: https://portal.dnb.de/opac.htm?method=showNextResultSite&c
 
 Results 7561 to 7570: https://portal.dnb.de/opac.htm?method=showNextResultSite&currentResultId=geograf+sortBy+tit%2Fsort.ascending%26any%26persons&currentPosition=7551
 
-# 10 results per page!
+*10 results per page!*
 
-# 10203 results for search term "geograf"!
+*10203 results for search term "geograf"!*
 
-# Relevant tags in source code:
+*Relevant tags in source code:*
 
-´´´<td class="number">7564</td>
+```<td class="number">7564</td>
 <td>
 <a id="recordLink_7563" title="Details zu diesem Datensatz" href="/opac.htm?method=showFullRecord&amp;currentResultId=geograf+sortBy+tit%2Fsort.ascending%26any%26persons&amp;currentPosition=7563">Roberts, Neil<br/>1953- / Geograf</a></td>
 <td align="right" class="nowrap">						
 </td>
-</tr>´´´
+</tr>```
     
-# Link to individual result:
+*Link to individual result*
 
 view-source:https://portal.dnb.de/opac.htm?method=showFullRecord&currentResultId=geograf+sortBy+tit%2Fsort.ascending%26any%26persons&currentPosition=7563
 
-# Full record HTML structure:
+*Full record HTML structure*
 
-´´´<tr>
+```<tr>
 <td width="25%" >
 <strong>Link zu diesem Datensatz</strong></td>
 <td ><a href="http://d-nb.info/gnd/1047547155" title="http://d-nb.info/gnd/1047547155" onclick="window.open(this.href); return false;" onfocus="titleAnpassen(this);" onmouseover="titleAnpassen(this);">http://d-nb.info/gnd/1047547155</a></td>
@@ -62,11 +64,11 @@ view-source:https://portal.dnb.de/opac.htm?method=showFullRecord&currentResultId
 <tr>
 <td width="25%" class='yellow'><strong>Typ</strong></td>
 <td class='yellow'>Person (piz)</td>
-</tr>´´´
+</tr>```
 
-# Structure of RDF/TTL files:
+*Structure of RDF/TTL files:*
 
-´´´@prefix schema: <http://schema.org/> .
+```@prefix schema: <http://schema.org/> .
 @prefix gndo: <https://d-nb.info/standards/elementset/gnd#> .
 @prefix lib: <http://purl.org/library/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -268,4 +270,4 @@ _:node1eeakmh2ex1018777 gndo:personalName "Strabo" .
   gndo:placeOfActivity <https://d-nb.info/gnd/4050471-2>;
   gndo:gender <https://d-nb.info/standards/vocab/gnd/gender#male>;
   gndo:dateOfBirth "-0063"^^xsd:gYear;
-  gndo:dateOfDeath "0023"^^xsd:gYear .´´´
+  gndo:dateOfDeath "0023"^^xsd:gYear .```
