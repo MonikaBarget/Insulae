@@ -1,0 +1,3560 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Madagascar",
+    "Europeandiscoverywhen":1500,
+    "Europeandiscovery:latest":1501,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Bermuda",
+    "Europeandiscoverywhen":1505,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Maldives",
+    "Europeandiscoverywhen":1506,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Sri Lanka",
+    "Europeandiscoverywhen":1506,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Tristan da Cunha",
+    "Europeandiscoverywhen":1506,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Sumatra",
+    "Europeandiscoverywhen":1509,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Bali",
+    "Europeandiscoverywhen":1511,
+    "Europeandiscovery:latest":1512,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Bangka",
+    "Europeandiscoverywhen":1511,
+    "Europeandiscovery:latest":1512,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Borneo",
+    "Europeandiscoverywhen":1511,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Flores",
+    "Europeandiscoverywhen":1511,
+    "Europeandiscovery:latest":12,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Java",
+    "Europeandiscoverywhen":1511,
+    "Europeandiscovery:latest":12,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Lombok",
+    "Europeandiscoverywhen":1511,
+    "Europeandiscovery:latest":12,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Smaller Maluku Islands",
+    "Europeandiscoverywhen":1511,
+    "Europeandiscovery:latest":12,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Sumbawa",
+    "Europeandiscoverywhen":1511,
+    "Europeandiscovery:latest":12,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Ternate",
+    "Europeandiscoverywhen":1511,
+    "Europeandiscovery:latest":13,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Tidore",
+    "Europeandiscoverywhen":1511,
+    "Europeandiscovery:latest":14,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Bacan",
+    "Europeandiscoverywhen":1511,
+    "Europeandiscovery:latest":15,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Halmahera ",
+    "Europeandiscoverywhen":1511,
+    "Europeandiscovery:latest":16,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Ambon",
+    "Europeandiscoverywhen":1513,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Nei Lingding Island",
+    "Europeandiscoverywhen":1513,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Sulawesi",
+    "Europeandiscoverywhen":1523,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"smaller Caroline islands",
+    "Europeandiscoverywhen":1525,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"",
+    "Europeandiscoverywhen":1526,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Mauritius",
+    "Europeandiscoverywhen":1528,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"R?union",
+    "Europeandiscoverywhen":1528,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Rodrigues",
+    "Europeandiscoverywhen":1528,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Baja California",
+    "Europeandiscoverywhen":1533,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Anticosti Island",
+    "Europeandiscoverywhen":1534,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Prince Edward Island",
+    "Europeandiscoverywhen":1534,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"",
+    "Europeandiscoverywhen":1535,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Cedros Island",
+    "Europeandiscoverywhen":1539,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Japan",
+    "Europeandiscoverywhen":1542,
+    "Europeandiscovery:latest":1543,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":5332921,
+    "WikiData":"",
+    "Island (modern English name)":"California",
+    "Europeandiscoverywhen":1542,
+    "Europeandiscovery:latest":43,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"",
+    "Europeandiscoverywhen":1542,
+    "Europeandiscovery:latest":43,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Erikub",
+    "Europeandiscoverywhen":1543,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Fais",
+    "Europeandiscoverywhen":1543,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Kwajalein",
+    "Europeandiscoverywhen":1543,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Lae",
+    "Europeandiscoverywhen":1543,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Likiep",
+    "Europeandiscoverywhen":1543,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Maloelap",
+    "Europeandiscoverywhen":1543,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Ujae",
+    "Europeandiscoverywhen":1543,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Ulithi",
+    "Europeandiscoverywhen":1543,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Wotho",
+    "Europeandiscoverywhen":1543,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Wotje",
+    "Europeandiscoverywhen":1543,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Yap",
+    "Europeandiscoverywhen":1543,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Kolguyev Island",
+    "Europeandiscoverywhen":1553,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Severny Island ",
+    "Europeandiscoverywhen":1553,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Yuzhny Island",
+    "Europeandiscoverywhen":1553,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Novaya Zemlya and Vaygach Island",
+    "Europeandiscoverywhen":1556,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Ailuk",
+    "Europeandiscoverywhen":1565,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Chuuk",
+    "Europeandiscoverywhen":1565,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Jemo",
+    "Europeandiscoverywhen":1565,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Lib",
+    "Europeandiscoverywhen":1565,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Mejit",
+    "Europeandiscoverywhen":1565,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Ngulu",
+    "Europeandiscoverywhen":1565,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Oroluk",
+    "Europeandiscoverywhen":1565,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Pulap",
+    "Europeandiscoverywhen":1565,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Sorol",
+    "Europeandiscoverywhen":1565,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"",
+    "Europeandiscoverywhen":1568,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Yezo (Hokkaido)",
+    "Europeandiscoverywhen":1589,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"",
+    "Europeandiscoverywhen":1592,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Marquesas",
+    "Europeandiscoverywhen":1595,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Spitsbergen",
+    "Europeandiscoverywhen":1596,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Aipus Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Albany Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Allison Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Anchor Cay",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Arden Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Aubussi Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Aukane Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Aureed Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Australia",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Badu Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Badu Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Barn Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Barney Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Bet Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Boigu Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Bond Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Booby Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Bramble Cay",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Browne Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Bush Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Campbell Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Canoe Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Cap Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Caroline Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Castle Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Coconut Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Crab Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Dalrymple Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Darnley Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Dauan Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Dayman Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Deliverance Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Dove Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Dowar Islet (Dauar Island)",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Dugong Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Dumaralug Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Duncan Islands",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"East Cay",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"East Strait Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Eborac Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Entrance Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Espiritu Santo",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Farewell Islets",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Flat Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Friday Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Gabba Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Getullai Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Goods Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Great Woody Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Green Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Halfway Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Hammond Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Hawkesbury Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"High Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Horn Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Ida Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Kabbikane Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Kamutnab Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Kanig Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Kaumag Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Keatinge Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Keats Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Kerr Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Lacey Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Layoak Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Little Adolphus Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Little Woody Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Lowry Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Mabuiag Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Mai Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Marsden Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Meddler Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Meth Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Middle Brother Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Mimi Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Moa Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Moimi Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Morilug Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Mouinndo Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Mount Adolphus Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Mount Ernest Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Murangi Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Murray Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Nepean Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Nicklin Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"North Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"North Possession Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"North West Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Obelisk Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Packe Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Passage Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Pearce Cay",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Phipps Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Poll Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Port Lihou Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Port Lihou Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Portlock Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Prince of Wales Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Prince of Wales Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Pulu Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Quoin Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Red Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Red Wallis Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Rennel Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Roberts Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Roko Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Saddle Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Saibai Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Salter Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"Q2225763",
+    "Island (modern English name)":"Sassie Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Smith Cay",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Spencer Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Stephens Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Suarji Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Subur Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Sue Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Thursday Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Tobin Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Travers Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Tree Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Tudu Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Tukupai Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Turnagain Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Turtle Head Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Turtle Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Turu Cay",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Twin Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Underdown Islet",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Warakuikul Talab Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Wednesday Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"West Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Whale Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Widul Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Woody Wallis Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Wyer Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Yam Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"York Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Yorke Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Zagai Island",
+    "Europeandiscoverywhen":1606,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"",
+    "Europeandiscoverywhen":1612,
+    "Europeandiscovery:latest":13,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"",
+    "Europeandiscoverywhen":1612,
+    "Europeandiscovery:latest":13,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Jan Mayen",
+    "Europeandiscoverywhen":1614,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":" Futuna",
+    "Europeandiscoverywhen":1616,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Ahe ",
+    "Europeandiscoverywhen":1616,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Alofi",
+    "Europeandiscoverywhen":1616,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Bylot Island",
+    "Europeandiscoverywhen":1616,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Devon Island",
+    "Europeandiscoverywhen":1616,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Dirk Hartog Island",
+    "Europeandiscoverywhen":1616,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Manihi",
+    "Europeandiscoverywhen":1616,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"New Hanover",
+    "Europeandiscoverywhen":1616,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"New Ireland",
+    "Europeandiscoverywhen":1616,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Rangiroa",
+    "Europeandiscoverywhen":1616,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Staten Island",
+    "Europeandiscoverywhen":1616,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Takapoto",
+    "Europeandiscoverywhen":1616,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Takaroa",
+    "Europeandiscoverywhen":1616,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Tonga",
+    "Europeandiscoverywhen":1616,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Sir Thomas Smith's Island",
+    "Europeandiscoverywhen":1617,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"island at the coast of Western Australia",
+    "Europeandiscoverywhen":1618,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Manitoulin Island",
+    "Europeandiscoverywhen":1621,
+    "Europeandiscovery:latest":23,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"land near present-day Cape Leeuwin",
+    "Europeandiscoverywhen":1622,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Groote Eylandt",
+    "Europeandiscoverywhen":1623,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Barrow Island",
+    "Europeandiscoverywhen":1628,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"",
+    "Europeandiscoverywhen":1628,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Apostle Islands",
+    "Europeandiscoverywhen":1640,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":" Tasmania",
+    "Europeandiscoverywhen":1642,
+    "Europeandiscovery:latest":1643,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"New Zealand",
+    "Europeandiscoverywhen":1642,
+    "Europeandiscovery:latest":43,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Fiji",
+    "Europeandiscoverywhen":1643,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148,45 ]
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Iturup",
+    "Europeandiscoverywhen":1643,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"New Britain",
+    "Europeandiscoverywhen":1643,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Sakhalin",
+    "Europeandiscoverywhen":1643,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175,-20 ]
+    },
+    "properties": {
+    "GeoNamesID":4032282,
+    "WikiData":"",
+    "Island (modern English name)":"Tonga Islands (169 smaller islands, of which 36 are inhabited)",
+    "Europeandiscoverywhen":1643,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Tongatapu",
+    "Europeandiscoverywhen":1643,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Urup",
+    "Europeandiscoverywhen":1643,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":null,
+    "WikiData":"",
+    "Island (modern English name)":"Shantar Islands",
+    "Europeandiscoverywhen":1643,
+    "Europeandiscovery:latest":45,
+    "FIELD8":""
+    }
+  }
+]
+}

@@ -1,0 +1,1093 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":" Tahiti",
+    "Europeandiscoverywhen":1767,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Kerguelen Islands",
+    "Europeandiscoverywhen":1772,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Kotelny Island",
+    "Europeandiscoverywhen":1773,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"",
+    "Europeandiscoverywhen":1773,
+    "Europeandiscovery:latest":75,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"",
+    "Europeandiscoverywhen":1773,
+    "Europeandiscovery:latest":75,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Dall Island",
+    "Europeandiscoverywhen":1774,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Sumez Island",
+    "Europeandiscoverywhen":1774,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Vancouver Island",
+    "Europeandiscoverywhen":1774,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"",
+    "Europeandiscoverywhen":1774,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Prince of Wales Island",
+    "Europeandiscoverywhen":1775,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Christmas Island",
+    "Europeandiscoverywhen":1777,
+    "Europeandiscovery:latest":78,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Hawaii",
+    "Europeandiscoverywhen":1777,
+    "Europeandiscovery:latest":78,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Admiralty",
+    "Europeandiscoverywhen":1791,
+    "Europeandiscovery:latest":1795,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Texada Island",
+    "Europeandiscoverywhen":1791,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Chatham Islands",
+    "Europeandiscoverywhen":1791,
+    "Europeandiscovery:latest":95,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Mitkof",
+    "Europeandiscoverywhen":1791,
+    "Europeandiscovery:latest":95,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"The Snares",
+    "Europeandiscoverywhen":1791,
+    "Europeandiscovery:latest":95,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Wrangell Island",
+    "Europeandiscoverywhen":1791,
+    "Europeandiscovery:latest":95,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Revillagigedo Island",
+    "Europeandiscoverywhen":1792,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Nauru",
+    "Europeandiscoverywhen":1798,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Kangaroo Island",
+    "Europeandiscoverywhen":1802,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Auckland Islands",
+    "Europeandiscoverywhen":1806,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"New Siberia Island",
+    "Europeandiscoverywhen":1806,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Campbell Island",
+    "Europeandiscoverywhen":1810,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Macquarie Islands",
+    "Europeandiscoverywhen":1810,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":" Banks Island",
+    "Europeandiscoverywhen":1819,
+    "Europeandiscovery:latest":1820,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"South Shetland Islands",
+    "Europeandiscoverywhen":1819,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Bathurst Island",
+    "Europeandiscoverywhen":1819,
+    "Europeandiscovery:latest":20,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Cornwallis",
+    "Europeandiscoverywhen":1819,
+    "Europeandiscovery:latest":20,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Melville Island",
+    "Europeandiscoverywhen":1819,
+    "Europeandiscovery:latest":20,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Somerset Island",
+    "Europeandiscoverywhen":1819,
+    "Europeandiscovery:latest":20,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"northernmost islands of the South Shetlands",
+    "Europeandiscoverywhen":1820,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"northernmost islands of the South Sandwich group",
+    "Europeandiscoverywhen":1820,
+    "Europeandiscovery:latest":21,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Alexander Islands",
+    "Europeandiscoverywhen":1821,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Peter I Island",
+    "Europeandiscoverywhen":1821,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Powell's Islands",
+    "Europeandiscoverywhen":1821,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Wollaston Land (part of the southern coast of Victoria Island)",
+    "Europeandiscoverywhen":1825,
+    "Europeandiscovery:latest":26,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Vanavana ",
+    "Europeandiscoverywhen":1826,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"King William Island",
+    "Europeandiscoverywhen":1829,
+    "Europeandiscovery:latest":30,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Adelaide Island ",
+    "Europeandiscoverywhen":1831,
+    "Europeandiscovery:latest":1832,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Anvers",
+    "Europeandiscoverywhen":1831,
+    "Europeandiscovery:latest":32,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Biscoe Island",
+    "Europeandiscoverywhen":1831,
+    "Europeandiscovery:latest":32,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Severny Island",
+    "Europeandiscoverywhen":1833,
+    "Europeandiscovery:latest":35,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Yuzhny Island",
+    "Europeandiscoverywhen":1833,
+    "Europeandiscovery:latest":35,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"",
+    "Europeandiscoverywhen":1838,
+    "Europeandiscovery:latest":40,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"",
+    "Europeandiscoverywhen":1839,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Ross Island",
+    "Europeandiscoverywhen":1841,
+    "Europeandiscovery:latest":43,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Cornwall Island",
+    "Europeandiscoverywhen":1852,
+    "Europeandiscovery:latest":53,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"North Kent Island",
+    "Europeandiscoverywhen":1852,
+    "Europeandiscovery:latest":53,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Eglinton Island",
+    "Europeandiscoverywhen":1853,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Prince Patrick Island",
+    "Europeandiscoverywhen":1853,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"",
+    "Europeandiscoverywhen":1873,
+    "Europeandiscovery:latest":74,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"none",
+    "WikiData":"",
+    "Island (modern English name)":"Ilots des Apotres",
+    "Europeandiscoverywhen":1875,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Amund Riingnes Island",
+    "Europeandiscoverywhen":1898,
+    "Europeandiscovery:latest":1902,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Axel Heiberg Island",
+    "Europeandiscoverywhen":1898,
+    "Europeandiscovery:latest":1902,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Ellef Ringnes Island",
+    "Europeandiscoverywhen":1898,
+    "Europeandiscovery:latest":1902,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"King William Island",
+    "Europeandiscoverywhen":1898,
+    "Europeandiscovery:latest":1902,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Severnaya Zemlya",
+    "Europeandiscoverywhen":1913,
+    "Europeandiscovery:latest":1914,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Borden Island",
+    "Europeandiscoverywhen":1915,
+    "Europeandiscovery:latest":1917,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Brock Island",
+    "Europeandiscoverywhen":1915,
+    "Europeandiscovery:latest":1917,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Lougheed Island",
+    "Europeandiscoverywhen":1915,
+    "Europeandiscovery:latest":1917,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Mackenzie King Island",
+    "Europeandiscoverywhen":1915,
+    "Europeandiscovery:latest":1917,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Meighen Island",
+    "Europeandiscoverywhen":1915,
+    "Europeandiscovery:latest":1917,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Stefansson Island",
+    "Europeandiscoverywhen":1915,
+    "Europeandiscovery:latest":1917,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Prince Charles Island",
+    "Europeandiscoverywhen":1932,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Roosevelt Island",
+    "Europeandiscoverywhen":1934,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Thurston Island",
+    "Europeandiscoverywhen":1940,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Berkner Island",
+    "Europeandiscoverywhen":1957,
+    "Europeandiscovery:latest":null,
+    "FIELD8":"",
+    "FIELD9":""
+    }
+  }
+]
+}

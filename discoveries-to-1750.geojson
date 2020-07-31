@@ -1,0 +1,439 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"South Georgia Island",
+    "Europeandiscoverywhen":1675,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Shumshu",
+    "Europeandiscoverywhen":1706,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Bolshoy Lyakhovsky Island",
+    "Europeandiscoverywhen":1710,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Paramushir",
+    "Europeandiscoverywhen":1713,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Easter Island ",
+    "Europeandiscoverywhen":1722,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Tutuila",
+    "Europeandiscoverywhen":1722,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Upolu",
+    "Europeandiscoverywhen":1722,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Saint Lawrence Island",
+    "Europeandiscoverywhen":1728,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Cape Circumcision; Bouvet Island)",
+    "Europeandiscoverywhen":1739,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Adak",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Afognak",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Agattu",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Atka",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Attu",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Baker Island",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Baranof",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Chichagof Island",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Great Sitkin",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Hinchinbrook",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Islands of the Four Mountains",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Kayak Island",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Kiska",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Kodiak",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Kruzof",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Montague",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Noyes",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Sitkalidak",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Umnak",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Yakobi",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"",
+    "Europeandiscoverywhen":1741,
+    "Europeandiscovery:latest":""
+    }
+  }
+]
+}

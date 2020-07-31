@@ -1,0 +1,500 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Baffin Island",
+    "Europeandiscoverywhen":986,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Porto Santo",
+    "Europeandiscoverywhen":1418,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Madeira ",
+    "Europeandiscoverywhen":1419,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Azores",
+    "Europeandiscoverywhen":1427,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Baliceaux",
+    "Europeandiscoverywhen":1450,
+    "Europeandiscovery:latest":1500,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Cape Verde",
+    "Europeandiscoverywhen":1456,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Bioko",
+    "Europeandiscoverywhen":1472,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Pr­ncipe",
+    "Europeandiscoverywhen":1474,
+    "Europeandiscovery:latest":1475,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Sao Tom",
+    "Europeandiscoverywhen":1474,
+    "Europeandiscovery:latest":1475,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Bahama",
+    "Europeandiscoverywhen":1492,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Cuba",
+    "Europeandiscoverywhen":1492,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Hispaniola",
+    "Europeandiscoverywhen":1492,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"all other British Virgin Islands",
+    "Europeandiscoverywhen":1493,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Anegada ",
+    "Europeandiscoverywhen":1493,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Saint Croix",
+    "Europeandiscoverywhen":1493,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Saint John",
+    "Europeandiscoverywhen":1493,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Saint Kitts",
+    "Europeandiscoverywhen":1493,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Saint Nevis",
+    "Europeandiscoverywhen":1493,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Saint Thomas",
+    "Europeandiscoverywhen":1493,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Totola",
+    "Europeandiscoverywhen":1493,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Virgin Gorda",
+    "Europeandiscoverywhen":1493,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Dominica ",
+    "Europeandiscoverywhen":1493,
+    "Europeandiscovery:latest":1494,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Guadeloupe",
+    "Europeandiscoverywhen":1493,
+    "Europeandiscovery:latest":1494,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Jamaica",
+    "Europeandiscoverywhen":1493,
+    "Europeandiscovery:latest":1494,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Lesser Antilles",
+    "Europeandiscoverywhen":1493,
+    "Europeandiscovery:latest":1494,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Puerto Rico",
+    "Europeandiscoverywhen":1493,
+    "Europeandiscovery:latest":1494,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Saint Barth?lemy",
+    "Europeandiscoverywhen":1493,
+    "Europeandiscovery:latest":1494,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Mona",
+    "Europeandiscoverywhen":1493,
+    "Europeandiscovery:latest":1495,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Culebra",
+    "Europeandiscoverywhen":1493,
+    "Europeandiscovery:latest":1496,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Vieques",
+    "Europeandiscoverywhen":1493,
+    "Europeandiscovery:latest":1497,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"New-Found Land",
+    "Europeandiscoverywhen":1497,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Saint Vincent",
+    "Europeandiscoverywhen":1498,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "GeoNamesID":"",
+    "WikiData":"",
+    "Island (modern English name)":"Greenland",
+    "Europeandiscoverywhen":1499,
+    "Europeandiscovery:latest":null,
+    "FIELD8":""
+    }
+  }
+]
+}
