@@ -27,7 +27,7 @@ def get_wikipedia_titles_from_wikidata_id(wikidata_id, lang='en', debug=False):
             print(type(sitelinks)) # TYPE IS DICTIONARY
             print(sitelinks)
             for sitelink in sitelinks:
-                for title, name in sitelink:  # for name, age in dictionary.iteritems():  (for Python 2.x)
+                for title, name in sitelink:  # trying to get value for key "title" in nested dictionaries
                     if time == search_name:
                         print(name)
     return None   
