@@ -38,9 +38,13 @@ view-source:https://www.worldcat.org/search?q=su%3AGreece+Crete.&fq=&dblist=638&
 
 *ln:_150 shows all languages including Welsh and Church Slawonik!*
 
-**URL structure of WorldCat query:**
+**URL structure of WorldCat query with several keywords:**
 
 https://www.worldcat.org/search?q=kw%3Ainsul+OR+insula+OR+isle+OR+insel+OR+island+OR+inseln+OR+insuln+OR+isola&fq=yr%3A1600..1800+%3E&qt=advanced&dblist=638
+
+**URL structure of WorldCat query with "subject" and "title" words:**
+
+https://www.worldcat.org/search?q=su%3Aislands+OR+ti%3Ainsula&qt=advanced&dblist=638
 
 **URLs of consecutive WorldCat result pages:**
 
@@ -114,6 +118,5 @@ etc.
 </td>
 </tr>```
 
-**Filtering results by language:**
 
 
