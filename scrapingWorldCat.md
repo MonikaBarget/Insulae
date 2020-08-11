@@ -13,7 +13,8 @@ Keyword, kw:, coffee or tea and house+
 
 **HTML structure of language information on result list:**
 
-```<div id="SpracheRefinement">
+```
+<div id="SpracheRefinement">
 <div class="head"><strong>Sprache</strong></div>
 <ul class="refinement">
 
@@ -29,7 +30,13 @@ Keyword, kw:, coffee or tea and house+
 	    <a rel="nofollow" title="Deutsch" href="/search?q=su%3AGreece+Crete.&dblist=638&fq=ln%3Ager&qt=facet_ln%3A">Deutsch</a> (877)
 	</li>
 
-<li>```
+<li>
+```
+**LINK TO MORE RESULTS IN DIFFERENT LANGUAGES:**
+
+view-source:https://www.worldcat.org/search?q=su%3AGreece+Crete.&fq=&dblist=638&fc=ln:_50&qt=show_more_ln%3A&cookie
+
+*ln:_150 shows all languages including Welsh and Church Slawonik!*
 
 **URL structure of WorldCat query:**
 
