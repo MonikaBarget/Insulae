@@ -1,3 +1,15 @@
+**Why select this database?**
+
+    *Contains all the records cataloged by OCLC member libraries.
+    *Offers millions of bibliographic records.
+    *Includes records representing 400 languages.
+    
+**Definition of keyword search:**
+
+Keyword, kw:, coffee or tea and house+
+
+[keyword searches, publication year, ISBN, geographic codes, map data, and all the information found in the Author, Title, Notes, Publisher, Publisher location, and Subject indexes]
+
 **URL structure of WorldCat query:**
 
 https://www.worldcat.org/search?q=kw%3Ainsul+OR+insula+OR+isle+OR+insel+OR+island+OR+inseln+OR+insuln+OR+isola&fq=yr%3A1600..1800+%3E&qt=advanced&dblist=638
@@ -73,3 +85,7 @@ etc.
  -->
 </td>
 </tr>```
+
+**Filtering results by language:**
+
+
