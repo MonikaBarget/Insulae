@@ -13,7 +13,7 @@ Keyword, kw:, coffee or tea and house+
 
 **HTML structure of language information on result list:**
 
-´´´<div id="SpracheRefinement">
+```<div id="SpracheRefinement">
 <div class="head"><strong>Sprache</strong></div>
 <ul class="refinement">
 
@@ -29,7 +29,7 @@ Keyword, kw:, coffee or tea and house+
 	    <a rel="nofollow" title="Deutsch" href="/search?q=su%3AGreece+Crete.&dblist=638&fq=ln%3Ager&qt=facet_ln%3A">Deutsch</a> (877)
 	</li>
 
-<li>´´´
+<li>```
 
 **URL structure of WorldCat query:**
 
