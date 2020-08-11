@@ -10,6 +10,27 @@ Keyword, kw:, coffee or tea and house+
 
 [keyword searches, publication year, ISBN, geographic codes, map data, and all the information found in the Author, Title, Notes, Publisher, Publisher location, and Subject indexes]
 
+
+**HTML structure of language information on result list:**
+
+´´´<div id="SpracheRefinement">
+<div class="head"><strong>Sprache</strong></div>
+<ul class="refinement">
+
+<li>
+	    <a rel="nofollow" title="Englisch" href="/search?q=su%3AGreece+Crete.&dblist=638&fq=ln%3Aeng&qt=facet_ln%3A">Englisch</a> (4261)
+	</li>
+
+<li>
+	    <a rel="nofollow" title="Neugriechisch [1453- ]" href="/search?q=su%3AGreece+Crete.&dblist=638&fq=ln%3Agre&qt=facet_ln%3A">Neugriechisch [1453- ]</a> (2183)
+	</li>
+
+<li>
+	    <a rel="nofollow" title="Deutsch" href="/search?q=su%3AGreece+Crete.&dblist=638&fq=ln%3Ager&qt=facet_ln%3A">Deutsch</a> (877)
+	</li>
+
+<li>´´´
+
 **URL structure of WorldCat query:**
 
 https://www.worldcat.org/search?q=kw%3Ainsul+OR+insula+OR+isle+OR+insel+OR+island+OR+inseln+OR+insuln+OR+isola&fq=yr%3A1600..1800+%3E&qt=advanced&dblist=638
