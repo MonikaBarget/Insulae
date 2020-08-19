@@ -2,15 +2,19 @@
 
 This page is meant as a documentation of all technical aspects relating to my postdoc project on early modern German perceptions of European islands.
 
-Topics covered will include:
+The digital side of my project includes:
 
-* Mapping publications (using QGIS and web-mapping tools)
+* Mapping island history and island publications (using QGIS and web-mapping tools)
 
-* Georeferencing and comparing historic maps in terms of content, style and purpose
+a) Mapping number of publications by year and language (using overall number of search results from WORLDCAT filters)
+b) Mapping German-language publications by genre and origin (original work or translation)
+c) Mapping publication peaks in the context of events (e.g. discoveries, battles, catastrophes)
 
-* Distant reading / topic modelling of selected sources (especially geographic dictionaries and travel reports)
+* Georeferencing and comparing historic maps (produced by the Homann family) in terms of content, style and purpose
 
-* Extracting information on relevant places, events and publications from Wikidata
+* Distant reading/topic modelling of selected geographic, educational and commercial dictionaries
+
+* Extracting information on relevant places and people from Wikidata and the German National Library (DNB)
 
 [SPARQL query events](https://github.com/MonikaBarget/Insulae/blob/master/WIKIDATA-SPARQL-events)
 
@@ -23,7 +27,5 @@ Topics covered will include:
 [WIKIDATA entities and properties](https://github.com/MonikaBarget/Insulae/blob/master/WIKIDATAquery.csv)
 
 [Python WIKIMAPPER](https://github.com/MonikaBarget/Insulae/blob/master/matchIDwithWIKIMAPPER.py)
-
-* Collection biographic information (e.g. relating to cartographers and printers) from Wikidata and the German National Library (DNB)
 
 **Python scripts** used to analyse my data are mainly shared in my separate [Digital History repository](https://github.com/MonikaBarget/DigitalHistory) and consecutively discussed in my **Doing digital history with Python series** on the [IEG DH Lab blog](https://dhlab.hypotheses.org/).
