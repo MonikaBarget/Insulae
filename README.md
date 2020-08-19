@@ -1,6 +1,6 @@
 # Insulae
 
-This page is meant as a documentation of all technical aspects relating to my postdoc project on early modern German perceptions of European islands.
+This page documents technical aspects relating to my postdoc project on early modern German perceptions of European islands.
 
 The digital side of my project includes:
 
