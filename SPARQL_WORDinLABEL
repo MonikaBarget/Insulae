@@ -1,0 +1,20 @@
+# SPARQL query for early-modern CHRISTIAN periodicals
+ 
+SELECT ?item ?itemLabel ?country ?date ?pubPlace ?pubDate ?startTime
+
+  WHERE {
+  ?item wdt:P31 wd:Q1002697;
+        rdfs:label ?pubLabel.
+  FILTER(CONTAINS(LCASE(?pubLabel), "christian"@en)).  
+  ?language wdt:P407 wd:Q1860.  
+ 
+# "christian"@en "church"@en "catholic"@en "papist"@en "popish"@en "protestant"@en "anglican"@en "baptist"@en .  
+
+  OPTIONAL {?item wdt:P17 ?country.}
+  OPTIONAL {?item wdt:P580 ?date.}
+  OPTIONAL {?items wdt:P291 ?pubPlace.}
+  OPTIONAL {?item wdt:P577 ?pubDate.}
+  OPTIONAL {?item wdt:P580 ?startTime.}
+  
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
