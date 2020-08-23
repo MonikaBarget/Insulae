@@ -1,0 +1,15 @@
+# SPARQL query to find selected data for one specific value
+ 
+SELECT ?paper ?date1 ?date2 ?loc1 ?loc2
+
+  WHERE {
+  
+  VALUES ?paper {wd:Q5053276 }
+
+  OPTIONAL {?item wdt:P571 ?date1.}
+  OPTIONAL {?item wdt:P2754 ?date2.}
+  OPTIONAL {?item wdt:P159 ?loc1.}
+  OPTIONAL {?item wdt:P17 ?loc2.}
+    
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
