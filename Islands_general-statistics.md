@@ -33,6 +33,8 @@ In order to identify the best query structure, the following manual searches wer
 |ti: insul OR insula OR isle OR insel OR island OR inseln OR insuln OR isola OR ilha|59923|6598|Riddarholmskyrkan från nordost, by Erik Dahlbergh, ca. 1600|
 |ti:/su: insul OR insula OR isle OR insel OR island OR inseln OR insuln OR isola OR ilha|58567|5391|Riddarholmskyrkan från nordost, by Erik Dahlbergh, ca. 1600|
 
+insul+OR+insula+OR+isle+OR+insel+OR+island+OR+inseln+OR+insuln+OR+isola+oileán
+
 Using island terms in different languages or island names as "subjects" (su:) retrieves lower and vastly different results.
 "Keyword" searches (kw:) retrieve three times as many results, but here, too, the search language makes a difference.
 Also, "keyword" searches in all fields including publication places:
