@@ -1,6 +1,6 @@
 General island information on all islands / archipelagoes known in the early modern period are collected in a CSV table with the following columns:
 
-|GeoNamesID|WikipediaID|IslandName|WikipediaLabel|LatGeonames|LongGeonames|GeodataWiki|ArchipelagoID|ArchipelagoID|Events|PubNumDE|PubNumEN|PubNumFR|PubNumLAT|etc.|
+|GeoNamesID|WikipediaID|IslandName|WikipediaLabel|LatGeonames|LongGeonames|GeodataWiki|ArchipelagoID|ArchipelagoName|Events|PubNumDE|PubNumEN|PubNumFR|PubNumLAT|etc.|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |extracted via webautomation|via webautomation|via webautomation|via webautomation|via webautomation|via webautomation|via webautomation|via webautomation|via webautomation|added manually as pseudo-XML|extracted from HathiTrust result page|extracted from HathiTrust result page|extracted from HathiTrust result page|extracted from HathiTrust result page|extracted from HathiTrust result page|extracted from HathiTrust result page|
 
