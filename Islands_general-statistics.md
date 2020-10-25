@@ -44,8 +44,4 @@ Verlag: Newport : Printed by S. Hall, 1767.
 
 Books entitled "de insulis" can only be found via a direct title search.
 
-The problem is that Latin titles do not have any keywords or tags at all. Missing metadata in the catalogues of the owning libraries also influence the search results.
-
-This is why the "title" search (ti:) is the most reliable option of island terms from all relevant languages are included. If (ti:) is combined with (su:) through "OR", the results are again improved. As the statistics would be distorted if languages are counted although their island terms are NOT part of the (ti:) search, the analysis has to be limited to Germanic and Romanesque languages. 
-
-Searches in German and English, however, retrieve more similar numbers.
+The problem is that most Latin titles do not have any keywords or tags at all. In general, missing metadata in the catalogues of the owning libraries influence the search results. This is why the "title" search (ti:) is the most reliable option if island terms from all relevant languages are included. (ti:) and (su:) cannot be combined through "OR", which is why combined searches in title and subjec lower the result output. As the statistics would be distorted if languages are counted although their island terms are NOT part of the (ti:) search, the analysis has to be limited to Germanic and Romanesque languages. 
