@@ -1,0 +1,3 @@
+|GeoNamesID|WikipediaID|IslandName|WikipediaLabel|LatGeonames|LongGeonames|GeodataWiki|ArchipelagoID|ArchipelagoID|Events|PubNumDE|PubNumEN|PubNumFR|PubNumLAT|etc.|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|extracted via webautomation|via webautomation|via webautomation|via webautomation|via webautomation|via webautomation|via webautomation|via webautomation|via webautomation|added manually as pseudo-XML|extracted from HathiTrust result page|extracted from HathiTrust result page|extracted from HathiTrust result page|extracted from HathiTrust result page|extracted from HathiTrust result page|extracted from HathiTrust result page|
