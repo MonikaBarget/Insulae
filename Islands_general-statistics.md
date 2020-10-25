@@ -15,15 +15,17 @@ In order to identify the best query structure, the following manual searches wer
 
 |Query|Number of all results between 1600 and 1800|Number of German results|Oldest result|
 |---|---|---|---|
-|kw: island OR insula |55669|||
-|kw: island|52136|||   
-|su: island|15318|||   
-|su: islands|15318|||
-|su: island OR insula|15322|||
-|su: insel|438|||
+|kw: island OR insula |52722|1123|Riddarholmskyrkan från nordost, by Erik Dahlbergh, ca. 1600|
+|kw: island|49237|982|Portraits of Juan Rodriguez Cabrillo and Sebastian Viscaino, ca.1540 & ca.1600|   
+|su: island|15103|405|Samling af Kort af forskellige kartografer fra det 16. århundrede, 22: Saxonum regionis quatenus eius gentis ... [Danmark, syd], by Christian Sgorothenus et al., ca. 1600|   
+|su: islands|15103|405|Samling af Kort af forskellige kartografer fra det 16. århundrede, 22: Saxonum regionis quatenus eius gentis ... [Danmark, syd], by Christian Sgorothenus et al., ca. 1600|
+|su: island OR insula|15107|405|Samling af Kort af forskellige kartografer fra det 16. århundrede, 22: Saxonum regionis quatenus eius gentis ... [Danmark, syd], by Christian Sgorothenus et al., ca. 1600|
+|su: insel|440|52|Polvs arcticvs siue tract[us] septentrionalis, by Matthias Quad and Johannes Bussemacher, Coloniæ/Köln: Ex officina typographica Jani Bussemechers, 1600|
+|su: insel OR island|15522|455|Samling af Kort af forskellige kartografer fra det 16. århundrede, 22: Saxonum regionis quatenus eius gentis ... [Danmark, syd], by Christian Sgorothenus et al., ca. 1600|
 |su: Zypern|5483|1044||
 |su: Cyprus|47103|850||
 |su: Crete|761||Candie. Par Beaulieu (Map, ca. 1600)|
+|su: Creta|761||Candie. Par Beaulieu (Map, ca. 1600)|
 |su: Candia|83 results||Spaggia della città di Candia (1612)|
 |su: Islands Maps Early Works to 1800|2159|||
 |kw: [all island stems]|99340|7718||
