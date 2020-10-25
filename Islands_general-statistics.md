@@ -14,7 +14,7 @@ b) misattribution of publication languages
 In order to identify the best query structure, the following manual searches were carried out in Worldcat:
 
 |Query|Number of all results between 1600 and 1800|Number of German results|Oldest result|
-|---|---|---|---|---|
+|---|---|---|---|
 |kw: island OR insula |55669|||
 |kw: island|52136|||   
 |su: island|15318|||   
