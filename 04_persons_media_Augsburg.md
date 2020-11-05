@@ -1,4 +1,4 @@
-##Handwerkerakten aus dem Stadtarchiv Augsburg
+## Handwerkerakten aus dem Stadtarchiv Augsburg
 
 1. Handwerkerakten 1649-1720 -- Buchbinder:
 
