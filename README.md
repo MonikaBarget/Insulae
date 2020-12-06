@@ -1,4 +1,4 @@
-![banner](https://github.com/MonikaBarget/Insulae/blob/master/Insulae%20banner%20(3).png)
+<img scr="https://github.com/MonikaBarget/Insulae/blob/master/Insulae%20banner%20(3).png" width="200px")
 
 # About the Insulae repository
 
