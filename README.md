@@ -1,6 +1,8 @@
-# Insulae
+![banner](https://github.com/MonikaBarget/Insulae/blob/master/Insulae%20banner%20(3).png)
 
-This page documents technical aspects relating to my postdoc project on early modern German perceptions of European islands.
+# About the Insulae repository
+
+This repository documents technical aspects relating to my postdoc project on early modern German perceptions of European islands.
 
 The digital side of my project includes:
 
@@ -12,7 +14,7 @@ c) Mapping publication peaks in the context of events (e.g. discoveries, battles
 
 * Georeferencing and comparing historic maps (produced by the Homann family) in terms of content, style and purpose
 
-* Distant reading/topic modelling of selected geographic, educational and commercial dictionaries
+* Distant reading/topic modelling of selected geographic, educational and commercial dictionaries (e.g. using full-text provided by the Bavarian State Library in Munich)
 
 * Extracting information on relevant places and people from Wikidata and the German National Library (DNB)
 
