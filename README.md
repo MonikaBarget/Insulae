@@ -1,4 +1,4 @@
-<img src="https://github.com/MonikaBarget/Insulae/blob/master/Insulae%20banner%20(3).png" width="500">
+<img src="https://github.com/MonikaBarget/Insulae/blob/master/Insulae%20banner%20(3).png" width="500" align="center">
 
 # About the Insulae repository
 
