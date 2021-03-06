@@ -86,7 +86,11 @@ In order to identify the best query structure, the following manual searches wer
 
 Using island terms in different languages or island names as "subjects" (su:) retrieved lower and vastly different results. The **gap between "title" and "subject" results** was greatest in **French** where the title search retrieved nearly seven times as many results, possibly because terms like "îsle de France" are very frequent in French texts of the early modern period. The comparative search in **national library catalogues** was in most languages half-way between the WORLDCAT results for "title" and "subject" searches.
 
-"Keyword" searches (kw:) retrieved **three times as many results** as XXX searches, but here, too, the search language made a difference. Also, "keyword" searches in WORLDCAT consider all fields including publication places and does tend to retrieve too many false negatives.
+"Keyword" searches (kw:) retrieved **three times as many results** as XXX searches, but here, too, the search language made a difference. Also, "keyword" searches in WORLDCAT consider all fields including publication places and does tend to retrieve too many false negatives:
+
+<quote>Keyword, kw:, coffee or tea and house+
+
+[keyword searches: publication year, ISBN, geographic codes, map data, and all the information found in the Author, Title, Notes, Publisher, Publisher location, and Subject indexes]</quote>
 
 Latin books entitled **"de insulis"** can only be found via direct title search as most Latin items in WORLDCAT do not have any keywords or tags at all. 
 
