@@ -26,8 +26,8 @@ c) Mapping publication peaks in the context of events (e.g. discoveries, battles
 
 [SPARQL query periodicals](https://monikabarget.github.io/Insulae/WIKIDATA-SPARQL-periodicals)
 
-[WIKIDATA entities and properties](https://monikabarget.github.io/Insulae/WIKIDATAquery.csv)
+[WIKIDATA entities and properties](https://github.com/MonikaBarget/Insulae/blob/master/05_WIKIDATAentities_media.csv)
 
-[Python WIKIMAPPER](https://monikabarget.github.io/Insulae/matchIDwithWIKIMAPPER.py)
+[Python WIKIMAPPER](https://github.com/MonikaBarget/Insulae/blob/master/02_matchIDwithWIKIMAPPER.py)
 
 **Python scripts** used to analyse my data are mainly shared in my separate [Digital History repository](https://github.com/MonikaBarget/DigitalHistory) and consecutively discussed in my **Doing digital history with Python series** on the [IEG DH Lab blog](https://dhlab.hypotheses.org/).
