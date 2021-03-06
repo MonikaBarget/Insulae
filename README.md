@@ -16,7 +16,7 @@ The digital side of my project includes:
 
 * Geocoding metadata
 
-[Geocoding in Excel](02_ExcelGeocoding.md)
+[Geocoding in Excel](https://monikabarget.github.io/Insulae/02_ExcelGeocoding.md)
 
 Geocoding with Google API
 
@@ -34,13 +34,13 @@ c) Mapping publication peaks in the context of events (e.g. discoveries, battles
 
 * Extracting information on relevant places and people from Wikidata and the German National Library (DNB)
 
-[SPARQL query events](https://monikabarget.github.io/Insulae/WIKIDATA-SPARQL-events.html)
+[SPARQL query events](https://github.com/MonikaBarget/Insulae/blob/master/WIKIDATA-SPARQL-events)
 
-[SPARQL query islands](https://monikabarget.github.io/Insulae/WIKIDATA-SPARQL-islands.html)
+[SPARQL query islands](https://github.com/MonikaBarget/Insulae/blob/master/WIKIDATA-SPARQL-islands)
 
-[SPARQL query maps](https://monikabarget.github.io/Insulae/WIKIDATA-SPARQL-maps.html)
+[SPARQL query maps](https://github.com/MonikaBarget/Insulae/blob/master/WIKIDATA-SPARQL-maps)
 
-[SPARQL query periodicals](https://monikabarget.github.io/Insulae/WIKIDATA-SPARQL-periodicals.html)
+[SPARQL query periodicals](https://github.com/MonikaBarget/Insulae/blob/master/WIKIDATA-SPARQL-periodicals)
 
 [WIKIDATA entities and properties](https://github.com/MonikaBarget/Insulae/blob/master/05_WIKIDATAentities_media.csv)
 
