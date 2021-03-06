@@ -101,14 +101,18 @@ Latin books entitled **"de insulis"** can only be found via direct title search 
 
 In order to capture as many relevant search results as possible, the following steps were taken:
 
-*a) Consecutive title search (ti:) for the word "island" and (European) island names in several languages with language filters:*
+*a) Joint title search (ti:) for the word "island" in several languages with "OR":*
 
-The **Scandinavian languages** had to be selected separately because their island names could be read as invidual characters in words rather than words of their own. In addition, the **Swedish National Library Catalogue"** was manually searched for additional works.
+This is necessary because even a book using the Latin word "insula" could, in fact, be written in German, and because the trial searches have shown that even a Danish depiction of Riddarholm islet in the old town of Stockholm was captured by "title" searches in English and German. Filtering by individual languages would have excluded too many results in related languages or bilingual publications.
+
+The **Scandinavian languages** had to be selected separately, though, because their island names could be read as invidual characters in words rather than words of their own. In addition, the **Swedish National Library Catalogue"** was manually searched for additional works.
 
 **Slawonic languages** were widely absent in the first place and a check in the Polish national library catalogue revealed that most island works from the early modern period kept in Polish institutions are foreign language works. 
 
 **Ottoman Turkish** works from the **Turkish National Library Catalogue** turned out to be irrelevant for the research project.
 
-*b) Subject search (su:) or keyword search (kw:) for names of non-European islands (in the language of their early modern colonizers)*
+*b) Merged title search (ti:) for (European) island names in several languages with "OR"
+
+*c) Subject search (su:) or keyword search (kw:) for names of non-European islands (in the language of their early modern colonizers)*
 
 
