@@ -1,13 +1,20 @@
 All items analysed and mapped in this project were collected in a custom [ZOTERO](zotero.org) library.
 
-The import of items was carried out via web automation. 
+1) IMPORTING ITEMS
 
-There were several issues to consider:
+The import of items was carried out via **web automation**. I have I have written a **Python script** that automates my ZOTERO browser add-on in a personalised Google Chrome profile and allows me to add search results from WORLDCAT and other digital archives to a group library. 
 
-> I have written a Python script that automates my ZOTERO browser add-on in a personalised Google Chrome profile and allows me to add search results from WORLDCAT to a group library. Unfortunately, I will have to run several queries because of the set-up of the search engine, and this will mean that a considerable number of duplicates will be retrieved. What happens if my script tries adding an item from the very same catalogue (WORLDCAT) to a group library that already exists? Does ZOTERO spot it's the same and ignores the import? That would be good to know before I go ahead. If duplicates are added regardless, I might need to import my search results to independent sub-folders first and find a way to compare them efficiently. Or is there a way to automate the ZOTERO duplicate finder with PyZOTERO?
+2) MANAGING DUPLICATES
 
+As several queries needed to be run, a considerable number of duplicates were retrieved. The most efficient way to eliminate duplicates from the same source was to store results as RIS files first and delete those with the same IT before import into ZOTERO. In order to exclude duplicates from different sources, search results were first imported to separate ZOTERO folders and then dragged and dropped into the main folder. In this way, ZOTERO could already identify some of the duplicates. Remaining duplicates were merged with the in-built ZOTERO duplicate management.
 
-Duplicates were cleaned semi-manually.
+3) TAGGING
 
 Tagging was unified manually via the ZOTERO **tag selector** and **PyZotero** scripts.
+
+4) LINKING OF RELATED ITEMS
+
+Related items (e.g. reprints or translations) were marked with special tags, using the unique **ZOTERO URI** to identify each item. For data analysis, this information coded in the tags could either be accessed via the **ZOTERO API** or via data dumps in various file formats.
+
+
 
