@@ -6,6 +6,22 @@ This repository documents technical aspects relating to my postdoc project on ea
 
 The digital side of my project includes:
 
+* Extracting bibliographic information from WORLDCAT and national library catalogues
+
+[Challenges of working with WORLDCAT metadata and general statistics](https://monikabarget.github.io/Insulae/01_Islands_Worldcat_general-stats.html)
+
+[Automatically extracting metadata from WORLDCAT with Python](https://monikabarget.github.io/Insulae/01_scrapingWorldCat.html)
+
+[Managing metadata in ZOTERO library](https://monikabarget.github.io/Insulae/01_Islands_ZOTEROlibrary.html)
+
+* Geocoding metadata
+
+[Geocoding in Excel](02_ExcelGeocoding.md)
+
+Geocoding with Google API
+
+Geocoding with Geonames
+
 * Mapping island history and island publications (using QGIS and web-mapping tools)
 
 a) Mapping number of publications by year and language (using overall number of search results from WORLDCAT filters)
