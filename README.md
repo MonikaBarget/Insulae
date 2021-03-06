@@ -1,4 +1,4 @@
-<img src="https://github.com/MonikaBarget/Insulae/blob/master/Insulae_logo.png" width="250" align="aligncenter"/>
+<img src="https://github.com/MonikaBarget/Insulae/Insulae_logo.png" width="250" align="aligncenter"/>
 
 # About the Insulae repository
 
@@ -18,16 +18,16 @@ c) Mapping publication peaks in the context of events (e.g. discoveries, battles
 
 * Extracting information on relevant places and people from Wikidata and the German National Library (DNB)
 
-[SPARQL query events](https://github.com/MonikaBarget/Insulae/blob/master/WIKIDATA-SPARQL-events)
+[SPARQL query events](https://github.com/MonikaBarget/Insulae/WIKIDATA-SPARQL-events)
 
-[SPARQL query islands](https://github.com/MonikaBarget/Insulae/blob/master/WIKIDATA-SPARQL-islands)
+[SPARQL query islands](https://github.com/MonikaBarget/Insulae/WIKIDATA-SPARQL-islands)
 
-[SPARQL query maps](https://github.com/MonikaBarget/Insulae/blob/master/WIKIDATA-SPARQL-maps)
+[SPARQL query maps](https://github.com/MonikaBarget/Insulae/WIKIDATA-SPARQL-maps)
 
-[SPARQL query periodicals](https://github.com/MonikaBarget/Insulae/blob/master/WIKIDATA-SPARQL-periodicals)
+[SPARQL query periodicals](https://github.com/MonikaBarget/Insulae/WIKIDATA-SPARQL-periodicals)
 
-[WIKIDATA entities and properties](https://github.com/MonikaBarget/Insulae/blob/master/WIKIDATAquery.csv)
+[WIKIDATA entities and properties](https://github.com/MonikaBarget/Insulae/WIKIDATAquery.csv)
 
-[Python WIKIMAPPER](https://github.com/MonikaBarget/Insulae/blob/master/matchIDwithWIKIMAPPER.py)
+[Python WIKIMAPPER](https://github.com/MonikaBarget/Insulae/matchIDwithWIKIMAPPER.py)
 
 **Python scripts** used to analyse my data are mainly shared in my separate [Digital History repository](https://github.com/MonikaBarget/DigitalHistory) and consecutively discussed in my **Doing digital history with Python series** on the [IEG DH Lab blog](https://dhlab.hypotheses.org/).
