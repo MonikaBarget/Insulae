@@ -1,5 +1,5 @@
-<img src="https://github.com/MonikaBarget/Insulae/blob/master/Insulae logo.png" width="500" align="aligncenter"/>
-![logo](https://github.com/MonikaBarget/Insulae/blob/master/Insulae logo.png)
+<img src="https://github.com/MonikaBarget/Insulae/blob/master/Insulae_logo.png" width="500" align="aligncenter"/>
+![logo](https://github.com/MonikaBarget/Insulae/blob/master/Insulae_logo.png)
 
 # About the Insulae repository
 
