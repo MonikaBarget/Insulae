@@ -74,7 +74,7 @@ In order to identify the best query structure, the following manual searches wer
 |su: Zypern|111|4||
 |ti: Zypern|54|43||
 |su: Cyprus|224|8||
-|ti: Cyprus OR Zypern OR Chypre OR Cypria|907|69||
+|ti: Cyprus OR Zypern OR Chypre OR Cypria|907|69| Cyprus insula laeta choris, blandorum et mater amorum (map), sumptibus Ioannis Ianssonii (Amstelodami), 1600-1699|
 |ti: Creta OR Kreta OR Candia|1,711|463||
 |su: Crete|745|21|Candie. Par Beaulieu (Map, ca. 1600)|
 |su: Creta|40|1|Candia, by Philippe Galle and Abraham Ortelius and Jan Baptista Vrients, Antuerpiae, apud Ioannem Bapt. Urientium, 1601|
