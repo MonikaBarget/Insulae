@@ -18,13 +18,13 @@ c) Mapping publication peaks in the context of events (e.g. discoveries, battles
 
 * Extracting information on relevant places and people from Wikidata and the German National Library (DNB)
 
-[SPARQL query events](https://monikabarget.github.io/Insulae/WIKIDATA-SPARQL-events)
+[SPARQL query events](https://monikabarget.github.io/Insulae/WIKIDATA-SPARQL-events.html)
 
-[SPARQL query islands](https://monikabarget.github.io/Insulae/WIKIDATA-SPARQL-islands)
+[SPARQL query islands](https://monikabarget.github.io/Insulae/WIKIDATA-SPARQL-islands.html)
 
-[SPARQL query maps](https://monikabarget.github.io/Insulae/WIKIDATA-SPARQL-maps)
+[SPARQL query maps](https://monikabarget.github.io/Insulae/WIKIDATA-SPARQL-maps.html)
 
-[SPARQL query periodicals](https://monikabarget.github.io/Insulae/WIKIDATA-SPARQL-periodicals)
+[SPARQL query periodicals](https://monikabarget.github.io/Insulae/WIKIDATA-SPARQL-periodicals.html)
 
 [WIKIDATA entities and properties](https://github.com/MonikaBarget/Insulae/blob/master/05_WIKIDATAentities_media.csv)
 
