@@ -71,8 +71,11 @@ In order to identify the best query structure, the following manual searches wer
 |su: island OR insula|15107|405|Samling af Kort af forskellige kartografer fra det 16. århundrede, 22: Saxonum regionis quatenus eius gentis ... [Danmark, syd], by Christian Sgorothenus et al., ca. 1600|
 |su: insel|440|52|Polvs arcticvs siue tract[us] septentrionalis, by Matthias Quad and Johannes Bussemacher, Coloniæ/Köln: Ex officina typographica Jani Bussemechers, 1600|
 |su: insel OR island|15522|455|Samling af Kort af forskellige kartografer fra det 16. århundrede, 22: Saxonum regionis quatenus eius gentis ... [Danmark, syd], by Christian Sgorothenus et al., ca. 1600|
-|su: Zypern|5483|1044||
-|su: Cyprus|47103|850||
+|su: Zypern|111|4||
+|ti: Zypern|54|43||
+|su: Cyprus|224|8||
+|ti: Cyprus OR Zypern OR Chypre OR Cypria|907|69||
+|ti: Creta OR Kreta OR Candia|1,711|463||
 |su: Crete|745|21|Candie. Par Beaulieu (Map, ca. 1600)|
 |su: Creta|40|1|Candia, by Philippe Galle and Abraham Ortelius and Jan Baptista Vrients, Antuerpiae, apud Ioannem Bapt. Urientium, 1601|
 |su: Candia|83|1|Spaggia della città di Candia (1612)|
