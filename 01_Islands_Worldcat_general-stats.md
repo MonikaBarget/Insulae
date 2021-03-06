@@ -87,22 +87,28 @@ In order to identify the best query structure, the following manual searches wer
 
 3) Deductions for the best possible QUERY STRUCTURE:
 
-Using island terms in different languages or island names as "subjects" (su:) retrieved lower and vastly different results. The **gap between "title" and "subject" results** was greatest in **French** where the title search retrieved nearly seven times as many results, possibly because terms like "îsle de France" are very frequent in French texts of the early modern period. The comparative search in **national library catalogues** was in most languages half-way between the WORLDCAT results for "title" and "subject" searches.
+Title searches retrieved very high results for word stems such as "Cypr*" (for variations of Cyprus in several languages), but those results typically included many names of persons (such as "Cyprianus") or botanical names (e.g. "cypress) that distorted the overall output. At the same time, searches for very specific island names in just one language seemed to complicate the process.
 
-"Keyword" searches (kw:) retrieved **three times as many results** as XXX searches, but here, too, the search language made a difference. Also, "keyword" searches in WORLDCAT consider all fields including publication places and does tend to retrieve too many false negatives:
+Using island terms in different languages or island names as "subjects" (su:) retrieved lower results in comparison with "title" searches, and as keywords are not normalised, adding several spelling variants made a difference. The **gap between "title" and "subject" results** was greatest in **French** where the title search retrieved nearly seven times as many results. (ti:) and (su:) cannot be combined through "OR", which is why combined searches in title and subject lower the result output. The comparative search output in **national library catalogues** was in most languages half-way between the WORLDCAT results for "title" and "subject" searches. It is unclear whether WORLDCAT includes more duplicates or if national library catalogues tend to miss out on items published or distributed "abroad".
+
+"Keyword" searches (kw:) retrieved **2.5 times as many results** as "subject" searches, but here, too, the language was not normalised and adding the same keyword in different languages (e.g. English and Latin) increased the overall output. Also, "keyword" searches in WORLDCAT consider all fields including publication places and tend to retrieve more false negatives:
 
 <quote>Keyword, kw:, coffee or tea and house+
 
 [keyword searches: publication year, ISBN, geographic codes, map data, and all the information found in the Author, Title, Notes, Publisher, Publisher location, and Subject indexes]</quote>
 
-Latin books entitled **"de insulis"** can only be found via direct title search as most Latin items in WORLDCAT do not have any keywords or tags at all. 
+Latin books entitled **"de insulis"** can only be found via direct title search as most Latin items in WORLDCAT do not have any keywords or tags at all. In general, missing metadata in the catalogues of the owning libraries influence the search results. 
 
-In general, missing metadata in the catalogues of the owning libraries influence the search results. This is why the "title" search (ti:) is the most reliable option if island terms from all relevant languages are included. (ti:) and (su:) cannot be combined through "OR", which is why combined searches in title and subject lower the result output. As the statistics would be distorted if languages are counted although their island terms are NOT part of the (ti:) search, the analysis had to be limited to the **Romanesque langages as well as German, English, Dutch and Gaelic**:
+In order to capture as many relevant search results as possible, the following steps were taken:
 
-'''insul+OR+insula+OR+isle+OR+insel+OR+island+OR+inseln+OR+insuln+OR+isola+oileán'''
+*a) Consecutive title search (ti:) for the word "island" and (European) island names in several languages with language filters:*
 
 The **Scandinavian languages** had to be selected separately because their island names could be read as invidual characters in words rather than words of their own. In addition, the **Swedish National Library Catalogue"** was manually searched for additional works.
 
 **Slawonic languages** were widely absent in the first place and a check in the Polish national library catalogue revealed that most island works from the early modern period kept in Polish institutions are foreign language works. 
 
 **Ottoman Turkish** works from the **Turkish National Library Catalogue** turned out to be irrelevant for the research project.
+
+*b) Subject search (su:) or keyword search (kw:) for names of non-European islands (in the language of their early modern colonizers)*
+
+
