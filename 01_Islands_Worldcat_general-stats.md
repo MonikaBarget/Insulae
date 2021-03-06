@@ -60,3 +60,42 @@ This why an initial analysis in search results per language using different word
 
 **2) Results for specific ISLAND NAMES:**
 
+In order to identify the best query structure, the following manual searches were carried out in Worldcat:
+
+|Query|Number of all results between 1600 and 1800|Number of German results|Oldest result|
+|---|---|---|---|
+|kw: island OR insula |52722|1123|Riddarholmskyrkan från nordost, by Erik Dahlbergh, ca. 1600|
+|kw: island|49237|982|Portraits of Juan Rodriguez Cabrillo and Sebastian Viscaino, ca.1540 & ca.1600|   
+|su: island|15103|405|Samling af Kort af forskellige kartografer fra det 16. århundrede, 22: Saxonum regionis quatenus eius gentis ... [Danmark, syd], by Christian Sgorothenus et al., ca. 1600|   
+|su: islands|15103|405|Samling af Kort af forskellige kartografer fra det 16. århundrede, 22: Saxonum regionis quatenus eius gentis ... [Danmark, syd], by Christian Sgorothenus et al., ca. 1600|
+|su: island OR insula|15107|405|Samling af Kort af forskellige kartografer fra det 16. århundrede, 22: Saxonum regionis quatenus eius gentis ... [Danmark, syd], by Christian Sgorothenus et al., ca. 1600|
+|su: insel|440|52|Polvs arcticvs siue tract[us] septentrionalis, by Matthias Quad and Johannes Bussemacher, Coloniæ/Köln: Ex officina typographica Jani Bussemechers, 1600|
+|su: insel OR island|15522|455|Samling af Kort af forskellige kartografer fra det 16. århundrede, 22: Saxonum regionis quatenus eius gentis ... [Danmark, syd], by Christian Sgorothenus et al., ca. 1600|
+|su: Zypern|5483|1044||
+|su: Cyprus|47103|850||
+|su: Crete|745|21|Candie. Par Beaulieu (Map, ca. 1600)|
+|su: Creta|40|1|Candia, by Philippe Galle and Abraham Ortelius and Jan Baptista Vrients, Antuerpiae, apud Ioannem Bapt. Urientium, 1601|
+|su: Candia|83|1|Spaggia della città di Candia (1612)|
+|su: Islands Maps Early Works to 1800|2159|||
+|su: insul OR insula OR isle OR insel OR island OR inseln OR insuln OR isola OR ilha|17554|538|Samling af Kort af forskellige kartografer fra det 16. århundrede, 22: Saxonum regionis quatenus eius gentis ... [Danmark, syd], by Christian Sgorothenus et al., ca. 1600|
+|kw: insul OR insula OR isle OR insel OR island OR inseln OR insuln OR isola OR ilha|95376|7696|Riddarholmskyrkan från nordost, by Erik Dahlbergh, ca. 1600|
+|ti: insul OR insula OR isle OR insel OR island OR inseln OR insuln OR isola OR ilha|59923|6598|Riddarholmskyrkan från nordost, by Erik Dahlbergh, ca. 1600|
+|ti:/su: insul OR insula OR isle OR insel OR island OR inseln OR insuln OR isola OR ilha|58567|5391|Riddarholmskyrkan från nordost, by Erik Dahlbergh, ca. 1600|
+
+3) Deductions for the best possible QUERY STRUCTURE:
+
+Using island terms in different languages or island names as "subjects" (su:) retrieved lower and vastly different results. The **gap between "title" and "subject" results** was greatest in **French** where the title search retrieved nearly seven times as many results, possibly because terms like "îsle de France" are very frequent in French texts of the early modern period. The comparative search in **national library catalogues** was in most languages half-way between the WORLDCAT results for "title" and "subject" searches.
+
+"Keyword" searches (kw:) retrieved **three times as many results** as XXX searches, but here, too, the search language made a difference. Also, "keyword" searches in WORLDCAT consider all fields including publication places and does tend to retrieve too many false negatives.
+
+Latin books entitled **"de insulis"** can only be found via direct title search as most Latin items in WORLDCAT do not have any keywords or tags at all. 
+
+In general, missing metadata in the catalogues of the owning libraries influence the search results. This is why the "title" search (ti:) is the most reliable option if island terms from all relevant languages are included. (ti:) and (su:) cannot be combined through "OR", which is why combined searches in title and subject lower the result output. As the statistics would be distorted if languages are counted although their island terms are NOT part of the (ti:) search, the analysis had to be limited to the **Romanesque langages as well as German, English, Dutch and Gaelic**:
+
+'''insul+OR+insula+OR+isle+OR+insel+OR+island+OR+inseln+OR+insuln+OR+isola+oileán'''
+
+The **Scandinavian languages** had to be selected separately because their island names could be read as invidual characters in words rather than words of their own. In addition, the **Swedish National Library Catalogue"** was manually searched for additional works.
+
+**Slawonic languages** were widely absent in the first place and a check in the Polish national library catalogue revealed that most island works from the early modern period kept in Polish institutions are foreign language works. 
+
+**Ottoman Turkish** works from the **Turkish National Library Catalogue** turned out to be irrelevant for the research project.
