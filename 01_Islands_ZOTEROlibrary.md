@@ -20,9 +20,11 @@ Related items (e.g. reprints or translations) were marked with special tags, usi
 
 In order to carry out meaningful text analysis, items frequently re-printed or translated had to be identified in the collected metadata. Full-texts could then be retrieved from services like the Bavarian State Library in Munich or HathiTrust. It was first necessary to compare full-texts items collected in featured HathiTrust collections to the metadata in Zotero to make sure that no important items had been missed. For this purpose, exported JSON metadata from HathiTrust could be mapped to CSL-JSON exports from Zotero.
 
-*Structure of HathiTrust JSON files (with collection metadata)*:
+*Structure of HathiTrust JSON files (2 sample items)*:
 
 ![img1](/Screenshots_INSULAE_data-issues/JSONstructure_HathiTrust.png)
+
+*Structure of HathiTrust JSON files with collection metadata on top*:
 
 ![img2](/Screenshots_INSULAE_data-issues/JSONstructure_HathiTrust_CollectionInfo.png)
 
