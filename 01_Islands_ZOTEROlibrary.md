@@ -16,5 +16,15 @@ Tagging was unified manually via the ZOTERO **tag selector** and **PyZotero** sc
 
 Related items (e.g. reprints or translations) were marked with special tags, using the unique **ZOTERO URI** to identify each item. For data analysis, this information coded in the tags could either be accessed via the **ZOTERO API** or via data dumps in various file formats.
 
+5) Comparing imported data from WorldCat (and national catalogues) to full-text items in featured HathiTrust collections
+
+In order to carry out meaningful text analysis, items frequently re-printed or translated had to be identified in the collected metadata. Full-texts could then be retrieved from services like the Bavarian State Library in Munich or HathiTrust. It was first necessary to compare full-texts items collected in featured HathiTrust collections to the metadata in Zotero to make sure that no important items had been missed. For this purpose, exported JSON metadata from HathiTrust could be mapped to CSL-JSON exports from Zotero.
+
+Structure of HathiTrust JSON files (with collection metadata):
+
+![img1]("/JSONstructure_HathiTrust.png")
+
+![img2]("/JSONstructure_HathiTrust_CollectionInfo.png")
+
 
 
