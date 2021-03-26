@@ -22,7 +22,7 @@ In order to carry out meaningful text analysis, items frequently re-printed or t
 
 *Structure of HathiTrust JSON files (2 sample items)*:
 
-![img1](/Screenshots_INSULAE_data-issues/JSONStructure_HathiTrust.png)
+![img1](/Screenshots_INSULAE_data-issues/JSONstructure_HathiTrust.png)
 
 *Structure of HathiTrust JSON files with collection metadata on top*:
 
