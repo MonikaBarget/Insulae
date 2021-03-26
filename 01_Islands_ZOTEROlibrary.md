@@ -22,9 +22,9 @@ In order to carry out meaningful text analysis, items frequently re-printed or t
 
 *Structure of HathiTrust JSON files (with collection metadata)*:
 
-![img1]("/Screenshots_INSULAE_data-issues/JSONstructure_HathiTrust.png")
+![img1]("Screenshots_INSULAE_data-issues/JSONstructure_HathiTrust.png")
 
-![img2]("/Screenshots_INSULAE_data-issues/JSONstructure_HathiTrust_CollectionInfo.png")
+![img2]("Screenshots_INSULAE_data-issues/JSONstructure_HathiTrust_CollectionInfo.png")
 
 
 
